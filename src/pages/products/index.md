@@ -47,7 +47,7 @@ testimonials:
       stance on empowering clients and transparency.
 full_image: /img/products-full-width.jpg
 pricing:
-  heading: .
+  heading: What we offer
   description: >-
     
   plans:
