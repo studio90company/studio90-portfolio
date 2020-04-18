@@ -9,6 +9,6 @@ tags:
   - technology
   - startup
 ---
-![flavor wheel](/img/award.jpeg)
+![Award winning](/img/award.jpeg)
 
 .....The Story.....
